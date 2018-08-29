@@ -80,7 +80,7 @@ Costo por sesión $10 y costo por un equipo, menor frecuencia, $169
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Teacarterapia[5]</h3>
+					<h3>Tecarterapia[5]</h3>
 				</header>
 				<p>Es una terapia física la cual usa radiofrecuencia, generalmente a 448Khz. Técnica no invasiva, recuperación más rápida que la convencional. Genera corrientes de cargas eléctricas presentes en el interior del tejido en forma de iones. La corriente no se transmite por contacto directo sino por el movimiento de atracción y repulsión de las cargas eléctricas: el cuerpo se recupera naturalmente. Además genera vasodilatación el cual genera reducción del dolor y disminuye la tensión muscular. Funciona en dos versiones: capacitivos y resistivos, la diferencia son en los electrodos; el capacitivo se concentra en los músculos y tejidos blandos; el resistivo se concentra en el sistema musculoesquelético (huesos, tendones y ligamentos). </p>
 				<ul class="actions">
