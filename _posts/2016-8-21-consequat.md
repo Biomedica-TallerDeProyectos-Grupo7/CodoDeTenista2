@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Codo de Tenista
+title: 
 description: Epicondilitis
 image: assets/images/pic0.jpg
 ---
 
-Codo de Tenista
+
