@@ -19,7 +19,9 @@ BIBLIOGRAFÍA
 [8]Faro F, Moriatis J. Lateral Epicondylitis: Review and Current Concepts. Hand Surg. 2007; 32: 1271-79.<br>
 [9]Calfee R, Patel A, DaSilva M, Akelman D. Management of Lateral Epicondylitis: Current Concepts. J Am Acad Orthop Surg. 2008 ;16 : 19- 29<br>
 [10]Akermark C, Crone H, Elsasser U, Forsskahl B. Inyecciones de polisulfato de glicosaminoglicanos en la epicondilalgia humeral lateral: un ensayo doble ciego controlado con placebo. Int J Sports Med. 1995; 16 : 196-200. <br>
-[11]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4317462/<br><br><hr><br>
+[11]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4317462/<br>
+[12]https://www.ucam.edu/sites/default/files/revista-fisio/imagenes-pdfs-revistas/volumen-5/vol.5-no1-art.4.pdf<br>
+<br><br>
 BIBLIOGRAFÍA - ESTADO DEL ARTE<br>
 
 [1]Wang HS. Shock wave therapy for patients with lateral epicondylitis of the elbow: a one- to two-year follow-up study. Pubmed NCBI. Disponible en: https://www.ncbi.nlm.nih.gov/pubmed/12016085/<br>
