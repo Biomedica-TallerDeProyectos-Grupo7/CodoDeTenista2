@@ -2,7 +2,7 @@
 title:Estado del Arte
 layout: landing
 description: 'Estado del Arte<br />Codo De Tenista (Epicondilitis)'
-image: assets/images/E1.jpg
+image: assets/images/A1.jpg
 nav-menu: true
 ---
 
@@ -106,6 +106,35 @@ Se ha demostrado clínicamente que las ondas de presión, aplicadas a los tejido
 	Incrementan la circulación sanguínea en los tejidos blandos circundantes<br>
 	Inician un proceso de curación desencadenado por la activación de las células madre.<br>
 </p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Inicio</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/A6.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Magnoterapia Pulsátil</h3>
+				</header>
+				<p>La magnetoterapia pulsátil reduce el dolor causado por codo del tenista. Los fenómenos electromagnéticos tienen tres aspectos de aplicación médicobiológica.
+•	comprensión de los procesos eléctricos que se operan en el organismo, 
+•	conocimiento de las propiedades eléctricas y magnéticas de los medios biológicos. 
+•	mecanismo de acción de los campos magnéticos sobre el organismo.
+Esta acción puede intervenir como factor curativo y es de interés fundamental si se pretende utilizar el campo magnético como terapéutica. Se utiliza con onda media las 3 primeras aplicaciones y completa en las siguientes, hasta llegar a 10, aproximadamente. El resultado es excelente a partir de la tercera o cuarta aplicación. No es necesario bloquear a ningún paciente. Esta enfermedad puede considerarse como una de las más beneficiadas con el empleo de la magnetoterapia.
+Por una parte, las corrientes inducidas por el campo magnético producen un estímulo directo del trofismo celular, que se manifiesta por el estímulo en la síntesis de la energía que requiere el organismo para su función a nivel celular favoreciendo de esta manera la multiplicación celular, la síntesis proteica y la producción de prostaglandinas (efecto antinflamatorio). Por otra parte, hay un estímulo del flujo iónico a través de la membrana celular, en especial de los iones Ca++, Na + y K +. Esta acción tiene gran importancia cuando el potencial de membrana está alterado. Las cifras normales del potencial de membrana se sitúan entre 60 y 90 mV .Este potencial se mantiene mediante un mecanismo activo, en el que es fundamental la expulsión al exterior de la célula del ión Na +, que penetra en ella espontáneamente (bomba de sodio). 
+Desde el punto de vista tisular y orgánico, la magnetoterapia presenta una serie de acciones, de las cuales las más importantes son: 
+•	desintoxicación y aceleración del metabolismo
+•	vasodilatación (incremento del riego sanguíneo)
+•	miorelajación (liberación de espasmos)
+•	curativo y regenerativo, antiinflamatorio y antireumático
+•	contra el dolor (analgésico)
+•	antiedemático (con acción anti-hinchazón)
+ </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Inicio</a></li>
 				</ul>
