@@ -13,14 +13,14 @@ Cabe aclarar que estos datos fueron recopilados entre 2004-2005. Siendo el más 
 <br><br>
 
 <p><span class="image right"><img src="assets/images/I1.jpg" alt="" /></span><br>
- Los casos entre hombres y mujeres no varían mucho. No hay una mayor probabilidad dependiendo del género.</p><br><br><br>
+ Los casos entre hombres y mujeres no varían mucho. No hay una mayor probabilidad dependiendo del género.</p><br>
 <p><span class="image left"><img src="assets/images/I2.jpg" alt="" /></span><br>
- Respecto a la edad se observa que casi la mitad de los pacientes se encuentran entre los 40 y 50 años de edad, siendo casi excepcional su aparición entre los 20 y 30 años.</p><br><br><br>
+ Respecto a la edad se observa que casi la mitad de los pacientes se encuentran entre los 40 y 50 años de edad, siendo casi excepcional su aparición entre los 20 y 30 años.</p><br>
 <p><span class="image right"><img src="assets/images/I3.jpg" alt="" /></span><br>
-  Como se observa en la gráfica, más de la mitad de los pacientes fueron tratados únicamente con electroterapia, mientras que la terapia manual es prácticamente nula. </p><br><br><br>
+  Como se observa en la gráfica, más de la mitad de los pacientes fueron tratados únicamente con electroterapia, mientras que la terapia manual es prácticamente nula. </p><br>
 <p><span class="image left"><img src="assets/images/I4.jpg" alt="" /></span><br>
-  Como observamos, el tratamiento quirúrgico es claramente excepcional</p><br><br><br>
+  Como observamos, el tratamiento quirúrgico es claramente excepcional</p><br>
 <p><span class="image right"><img src="assets/images/I5.jpg" alt="" /></span><br>
-  El 57% de los pacientes fueron infiltrados en alguna ocasión, frente al 43% que no fueron infiltrados. Como se puede ver en la gráfica la mayoría de los pacientes tuvieron alguna recidiva. </p><br><br><br>
- <p><span class="image right"><img src="assets/images/I6.jpg" alt="" /></span><br>
-  La terapia manual se utiliza de manera insignificante, mientras que es la técnica de elección de la mayoría de los datos consultados; quizás este sea uno de los porqués de las recidivas.Respecto al uso de la infiltración, mencionar que el 76,7% de los infiltrados tuvo alguna recidiva, por lo que apoyándonos en los datos podemos afirmar que sus beneficios son sólo durante un corto periodo de tiempo. </p><br><br><br>
+  El 57% de los pacientes fueron infiltrados en alguna ocasión, frente al 43% que no fueron infiltrados. Como se puede ver en la gráfica la mayoría de los pacientes tuvieron alguna recidiva. </p><br>
+ <p><span class="image left"><img src="assets/images/I6.jpg" alt="" /></span><br>
+  La terapia manual se utiliza de manera insignificante, mientras que es la técnica de elección de la mayoría de los datos consultados; quizás este sea uno de los porqués de las recidivas.Respecto al uso de la infiltración, mencionar que el 76,7% de los infiltrados tuvo alguna recidiva, por lo que apoyándonos en los datos podemos afirmar que sus beneficios son sólo durante un corto periodo de tiempo. </p><br>
