@@ -2,7 +2,7 @@
 title:Estado del Arte
 layout: landing
 description: 'Estado del Arte<br />Codo De Tenista (Epicondilitis)'
-image: assets/images/A1.jpg
+image: assets/images/E1.jpg
 nav-menu: true
 ---
 
