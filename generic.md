@@ -20,7 +20,6 @@ BIBLIOGRAFÍA
 [9]Calfee R, Patel A, DaSilva M, Akelman D. Management of Lateral Epicondylitis: Current Concepts. J Am Acad Orthop Surg. 2008 ;16 : 19- 29<br>
 [10]Akermark C, Crone H, Elsasser U, Forsskahl B. Inyecciones de polisulfato de glicosaminoglicanos en la epicondilalgia humeral lateral: un ensayo doble ciego controlado con placebo. Int J Sports Med. 1995; 16 : 196-200. <br>
 [11]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4317462/<br>
-[12]https://www.ncbi.nlm.nih.gov/pubmed/?term=mechanical+solution+for+mechanical+problem+epicondyitis<br>
 
 
 
