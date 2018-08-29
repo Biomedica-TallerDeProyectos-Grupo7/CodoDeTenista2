@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Impacto Mundial
+description:Estadísticas
 image: assets/images/pic0.jpg
 ---
 
