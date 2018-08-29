@@ -1,8 +1,8 @@
 ---
-title: Landing
+title:Estado del Arte
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Estado del Arte<br />Codo De Tenista (Epicondilitis)'
+image: assets/images/E1.jpg
 nav-menu: true
 ---
 
