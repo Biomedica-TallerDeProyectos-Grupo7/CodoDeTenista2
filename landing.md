@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Tenease</h3>
 				</header>
 				<p>Tenease es un dispositivo que utiliza terapia de ondas de choque extracorpórea, un tratamiento aprobado por NICE (el Instituto Nacional de Salud del Reino Unido), para aliviar el dolor y acelerar el tiempo de recuperación en pacientes con epicondilitis lateral.  Funciona generando vibraciones de alta frecuencia localmente para pasar ondas de choque al tendón, interfiriendo con las transmisión de señales de dolor y estimulando el flujo sanguíneo en la zona afectada. Es manufacturado por Medical Technology Ltd en el Reino Unido, y fue lanzado al mercado en el 2010. Su uso recomendado es de 3 tratamientos de 10 minutos cada día por hasta 6 semanas.  Ha sido aprobado por el FDA y el MHRA. Se vende a aproximadamente $72.</p>
 				<ul class="actions">
