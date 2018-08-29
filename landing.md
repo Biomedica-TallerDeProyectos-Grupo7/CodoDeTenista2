@@ -73,8 +73,47 @@ Costo por sesión $10 y costo por un equipo, menor frecuencia, $169
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/A4.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Teacarterapia</h3>
+				</header>
+				<p>Es una terapia física la cual usa radiofrecuencia, generalmente a 448Khz. Técnica no invasiva, recuperación más rápida que la convencional. Genera corrientes de cargas eléctricas presentes en el interior del tejido en forma de iones. La corriente no se transmite por contacto directo sino por el movimiento de atracción y repulsión de las cargas eléctricas: el cuerpo se recupera naturalmente. Además genera vasodilatación el cual genera reducción del dolor y disminuye la tensión muscular. Funciona en dos versiones: capacitivos y resistivos, la diferencia son en los electrodos; el capacitivo se concentra en los músculos y tejidos blandos; el resistivo se concentra en el sistema musculoesquelético (huesos, tendones y ligamentos). </p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Inicio</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/A5.jpg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>DolorClast</h3>
+				</header>
+				<p>DolorClast<br>
+La terapia de ondas de choque extracorpóreas (ESWT) es la aplicación de las ondas de choque en la medicina.
+El tratamiento de ondas de choque que consiste en la emisión de ondas de choque de baja intensidad (0.8 – 0.16 mJ/mm2) es notablemente uno de los tratamientos, no invasivos, más efectivos. En la mayoría de los estudios para validar esta afirmación, se separa en 2 grupos a pacientes con codo de tenista, y se les aplica un tratamiento con ondas de choque con diferente frecuencia e intensidad a cada grupo. Ninguno de los grupos difería entre si antes del estudio, ambos presentaban resultados regular o malo en la escala analógica visual del dolor (VAS). Las primeras observaciones son que ambos grupos se mantuvieron a la par a lo largo de los meses, las variaciones eran mínimas, ambos progresaban a la par. Y segundo que después de un seguimiento de 6-12 meses aproximadamente, el dolor medido en una escala analógica visual (VAS) disminuyó significativamente en ambos grupos. Ambos grupos presentaron un resultado excelente o bueno en un 58% de los casos, que en comparación al inicio del estudio es una mejora increíble. 					
+Se ha demostrado clínicamente que las ondas de presión, aplicadas a los tejidos lesionados, estimulan las reacciones metabólicas:
+	Reducen del dolor sentido por las fibras nerviosas<br>
+	Incrementan la circulación sanguínea en los tejidos blandos circundantes<br>
+	Inician un proceso de curación desencadenado por la activación de las células madre.<br>
+</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Inicio</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	
 </section>
-
 <!-- Three -->
 <section id="three">
 	<div class="inner">
