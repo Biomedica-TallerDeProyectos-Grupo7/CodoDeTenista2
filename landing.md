@@ -1,5 +1,5 @@
 ---
-title:Estado del Arte
+title: Estado del Arte
 layout: Estado del Arte
 description: 'Estado del Arte<br />Codo De Tenista (Epicondilitis)'
 image: assets/images/E1.jpg
