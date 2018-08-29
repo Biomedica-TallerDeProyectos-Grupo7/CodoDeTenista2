@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Tenease es un dispositivo que utiliza terapia de ondas de choque extracorpórea, un tratamiento aprobado por NICE (el Instituto Nacional de Salud del Reino Unido), para aliviar el dolor y acelerar el tiempo de recuperación en pacientes con epicondilitis lateral.  Funciona generando vibraciones de alta frecuencia localmente para pasar ondas de choque al tendón, interfiriendo con las transmisión de señales de dolor y estimulando el flujo sanguíneo en la zona afectada. Es manufacturado por Medical Technology Ltd en el Reino Unido, y fue lanzado al mercado en el 2010. Su uso recomendado es de 3 tratamientos de 10 minutos cada día por hasta 6 semanas.  Ha sido aprobado por el FDA y el MHRA. Se vende a aproximadamente $72.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inicio</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>En el 2009 el Dr. Timothy Tyler del hospital Lenox Hill en Nueva York creó un método fácil y costo efectivo de terapia para la epicondilitis lateral con ejercicios excéntricos que liberan tensión en los músculos afectados y los estiran, aliviando el dolor y acortando el tiempo de recuperación. Se utiliza una barra llamada flexbar que permite hacer estos ejercicios, en los cuales la mano del brazo no comprometido intenta girar la barra flexionando la muñeca mientras la muñeca del brazo comprometido se mantiene extendida, intentando detener el movimiento. Se deben hacer 3 series de 15 repeticiones todos los días por aproximadamente 6 semanas. Estudios de este método lo comprobaron sumamente eficaz para aliviar el dolor y devolver fuerza a los músculos. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inicio</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,7 +68,7 @@ Generalmente es uno de los primeros tratamientos para la epicondilitis lateral.
 Costo por sesión $10 y costo por un equipo, menor frecuencia, $169
 </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
@@ -84,7 +84,7 @@ Costo por sesión $10 y costo por un equipo, menor frecuencia, $169
 				</header>
 				<p>Es una terapia física la cual usa radiofrecuencia, generalmente a 448Khz. Técnica no invasiva, recuperación más rápida que la convencional. Genera corrientes de cargas eléctricas presentes en el interior del tejido en forma de iones. La corriente no se transmite por contacto directo sino por el movimiento de atracción y repulsión de las cargas eléctricas: el cuerpo se recupera naturalmente. Además genera vasodilatación el cual genera reducción del dolor y disminuye la tensión muscular. Funciona en dos versiones: capacitivos y resistivos, la diferencia son en los electrodos; el capacitivo se concentra en los músculos y tejidos blandos; el resistivo se concentra en el sistema musculoesquelético (huesos, tendones y ligamentos). </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inicio</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
@@ -136,7 +136,7 @@ Desde el punto de vista tisular y orgánico, la magnetoterapia presenta una seri
 •	antiedemático (con acción anti-hinchazón)
  </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inicio</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
