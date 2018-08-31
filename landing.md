@@ -107,7 +107,7 @@ Se ha demostrado clínicamente que las ondas de presión, aplicadas a los tejido
 	Inician un proceso de curación desencadenado por la activación de las células madre.[10]<br>
 </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Inicio</a></li>
+					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
 			</div>
 		</div>
