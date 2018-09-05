@@ -21,6 +21,11 @@ nav-menu: true
 	<dt>Joaquina Rubio</dt>
 	<dd>
 		<p><b>Coordinadora General</b></p><br>
+		<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+	</div>
+		</div>
 		<p>Me llamo Joaquina Rubio y tengo 22 años. Soy la coordinadora general de este proyecto y me ocupo de organizar y delegar las tareas del equipo para que todos participemos de manera equitativa y nuestras metas puedan cumplirse de forma efectiva y a tiempo. Soy estudiante de la carrera Ingeniería Biomédica y me motiva mucho este proyecto pues quiero poder aportar al progreso en la salud de mi país. </p>
 	</dd>
 	<dt>Johan Gora</dt>
