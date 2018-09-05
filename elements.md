@@ -36,12 +36,12 @@ nav-menu: true
 	<dt>Diego Palacios</dt>
 	<dd>
 		<p><b>Encargado de Software</b></p><br>
-		<p></p>
+		<p>Soy alumno de la carrera Ingeniería Biomédica, tengo 18 años y me encargo de la programacion y la página web</p>
 	</dd>
 	<dt>Sandra Marchan</dt>
 	<dd>
 		<p><b>Coordinadora Administrativa</b></p><br>
-		<p>Soy alumno de la carrera Ingeniería Biomédica, tengo 18 años y me encargo de la programacion y la página web</p>
+		<p></p>
 	</dd>
 </dl>
 	
