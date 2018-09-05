@@ -20,11 +20,13 @@ nav-menu: true
 <dl>
 	<dt>Joaquina Rubio</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p><b>Coordinadora General</b></p><br>
+		<p>Me llamo Joaquina Rubio y tengo 22 años. Soy la coordinadora general de este proyecto y me ocupo de organizar y delegar las tareas del equipo para que todos participemos de manera equitativa y nuestras metas puedan cumplirse de forma efectiva y a tiempo. Soy estudiante de la carrera Ingeniería Biomédica y me motiva mucho este proyecto pues quiero poder aportar al progreso en la salud de mi país. </p>
 	</dd>
 	<dt>Johan Gora</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p><b>Encargado de Hardware</b></p><br>
+		<p></p>
 	</dd>
 </dl>
 </div>
@@ -33,15 +35,15 @@ nav-menu: true
 <dl>	
 	<dt>Diego Palacios</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p><b>Encargado de Software</b></p><br>
+		<p></p>
 	</dd>
 	<dt>Sandra Marchan</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p><b>Coordinadora Administrativa</b></p><br>
+		<p>Soy alumno de la carrera Ingeniería Biomédica, tengo 18 años y me encargo de la programacion y la página web</p>
 	</dd>
 </dl>
 	
 </div>
 
-<h2 id="content">Objetivos</h2>
-<p>TRANSFORMAR LA SALUD EN EL PERÚLorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
