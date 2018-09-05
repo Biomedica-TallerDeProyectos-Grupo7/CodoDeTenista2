@@ -23,7 +23,7 @@ nav-menu: true
 		<p><b>Coordinadora General</b></p><br>
 		<div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/joaquina.jpg" alt="" /></span></div>
 	</div>
 		</div>
 		<p>Me llamo Joaquina Rubio y tengo 22 años. Soy la coordinadora general de este proyecto y me ocupo de organizar y delegar las tareas del equipo para que todos participemos de manera equitativa y nuestras metas puedan cumplirse de forma efectiva y a tiempo. Soy estudiante de la carrera Ingeniería Biomédica y me motiva mucho este proyecto pues quiero poder aportar al progreso en la salud de mi país. </p>
@@ -31,6 +31,11 @@ nav-menu: true
 	<dt>Johan Gora</dt>
 	<dd>
 		<p><b>Encargado de Hardware</b></p><br>
+		<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/gora.jpg" alt="" /></span></div>
+	</div>
+		</div>
 		<p></p>
 	</dd>
 </dl>
@@ -41,11 +46,21 @@ nav-menu: true
 	<dt>Diego Palacios</dt>
 	<dd>
 		<p><b>Encargado de Software</b></p><br>
+		<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/paez.jpg" alt="" /></span></div>
+	</div>
+		</div>
 		<p>Soy alumno de la carrera Ingeniería Biomédica, tengo 18 años y me encargo de la programacion y la página web</p>
 	</dd>
 	<dt>Sandra Marchan</dt>
 	<dd>
 		<p><b>Coordinadora Administrativa</b></p><br>
+		<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/sandra.jpg" alt="" /></span></div>
+	</div>
+		</div>
 		<p></p>
 	</dd>
 </dl>
