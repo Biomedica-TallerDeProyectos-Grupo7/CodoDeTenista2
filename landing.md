@@ -28,9 +28,16 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Tenease</h3>
+					<h3>Electric Infrared Heat Hand Massager Ball Massage Hand & Fingers Physiotherapy Rehabilitation Health Care Vibration Adjustable</h3>
 				</header>
-				<p>Tenease es un dispositivo que utiliza terapia de ondas de choque extracorpórea, un tratamiento aprobado por NICE (el Instituto Nacional de Salud del Reino Unido), para aliviar el dolor y acelerar el tiempo de recuperación en pacientes con epicondilitis lateral[1].  Funciona generando vibraciones de alta frecuencia localmente para pasar ondas de choque al tendón, interfiriendo con las transmisión de señales de dolor y estimulando el flujo sanguíneo en la zona afectada. Es manufacturado por Medical Technology Ltd en el Reino Unido, y fue lanzado al mercado en el 2010. Su uso recomendado es de 3 tratamientos de 10 minutos cada día por hasta 6 semanas[2].  Ha sido aprobado por el FDA y el MHRA. Se vende a aproximadamente $72.</p>
+				<p>Es un dispositivo de terapia de masaje calentado tiene una carcasa manual, un generador de vibración mecánica dispuesto dentro de la carcasa, transmitiéndose la vibración mecánica a al menos una parte transparente conductora de calor, preferentemente infrarroja, y al menos una fuente de radiación infrarroja dispuesta dentro de la misma. la carcasa, la radiación infrarroja aplicada a al menos la parte conductora de calor de la carcasa. </p>
+				<p>El producto:<br>
+•	El masaje de vibración de alta frecuencia y compresión de calor infrarrojo, promueve la circulación sanguínea de los dedos de la mano.<br>
+•	Elimine la fatiga de la mano causada por el trabajo prolongado. Diámetro de la bola de masaje: 8.5 cm<br>
+•	Tipo de soporte Wirst, más cómodo de llevar Deja que los dedos del movimiento desordenados se muevan.<br>
+•	Se utiliza para: accidente cerebrovascular, hemorragia cerebral, trombosis cerebral, parálisis cerebral, parálisis cerebral, lesión cerebral traumática, vértebra cervical, lesión espinal causada por otras causas anormales de la función de la mano, distonía de los dedos, espasmos de la mano, flexión de los dedos, atrofia muscular de la mano, etc.<br>
+•	5 juegos para ajustar la fuerza del masaje. Tamaño libre, apto para la mayoría de las personas adultas. 2 piezas Se requieren baterias recargables (no incluidas).<br>
+</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
@@ -60,81 +67,17 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TENS[4]</h3>
+					<h3>BANDA CLX</h3>
 				</header>
-				<p>Es un aparato de electro-estimulación percutánea, aplica una cantidad necesaria de corriente eléctrica, para controlar los dolores crónicos o agudos. Está técnica tiene la ventaja de que no es invasiva y las probabilidades de contraer efectos colaterales es mínima. Generaremos una interferencia entre el dolor y la sensación de dolor,  teoría de Melzack y Wall, para poder disminuir o controlar el dolor existente. Además, esta técnica no se debe aplicar en zonas cutáneas irritadas y en personas con problemas cardiacos, poseen un marcapaso.
-TENS tiene que ser aplicado a una frecuencia necesaria y controlada con tiempos exactos, la curación, alivio, dependerá de la precisión y conservación de las normas de uso.
-Generalmente es uno de los primeros tratamientos para la epicondilitis lateral. 
-Costo por sesión $10 y costo por un equipo, menor frecuencia, $169
+				<p> De acuerdo con múltiples estudios, la resistencia elástica utilizada en TheraBand CLX Consecutive Loops es equivalente al entrenamiento con pesas en la curva de fuerza, activación muscular, esfuerzo percibido y ganancia de fuerza.<br>
+•	Ofrece múltiples opciones únicas de agarre, permite ejercitarse como agarres manuales abiertos y cerrados, sujetar objetos con resistencia, ejercicio sin necesidad de agarre<br>
+•	Habilita nunca antes posible el ejercicio como el trabajo simultáneo de la parte superior e inferior del cuerpo, abriendo posibilidades increíbles para la serie de atletas.<br>
+•	El sistema de resistencia progresiva codificado por colores permite a los usuarios reconocer las mejoras a medida que pasan, a medida que creces, puedes pasar al siguiente color.<br>
+•	Las bandas de resistencia al látex de caucho natural de la más alta calidad son reconocidas como el sistema original de resistencia progresiva por más de 40 años.<br>
+•	Cada banda mide 5 pies de largo X 4 pulgadas de ancho y viene en tres niveles de resistencia codificados por color: Amarillo-3-4.3 lbs .; Rojo-3.7-5.5 lbs .; Verde-4.6-6.7 lbs.<br><br>
+				PRECIO PROMEDIO: $ 14.99 - $ 24.99 / 66 soles
+
 </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/A4.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Tecarterapia[5]</h3>
-				</header>
-				<p>Es una terapia física la cual usa radiofrecuencia, generalmente a 448Khz. Técnica no invasiva, recuperación más rápida que la convencional. Genera corrientes de cargas eléctricas presentes en el interior del tejido en forma de iones. La corriente no se transmite por contacto directo sino por el movimiento de atracción y repulsión de las cargas eléctricas: el cuerpo se recupera naturalmente. Además genera vasodilatación el cual genera reducción del dolor y disminuye la tensión muscular. Funciona en dos versiones: capacitivos y resistivos, la diferencia son en los electrodos; el capacitivo se concentra en los músculos y tejidos blandos; el resistivo se concentra en el sistema musculoesquelético (huesos, tendones y ligamentos). </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/A5.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>DolorClast</h3>
-				</header>
-				<p>DolorClast<br>
-La terapia de ondas de choque extracorpóreas (ESWT) es la aplicación de las ondas de choque en la medicina.
-El tratamiento de ondas de choque que consiste en la emisión de ondas de choque de baja intensidad (0.8 – 0.16 mJ/mm2) es notablemente uno de los tratamientos, no invasivos, más efectivos. En la mayoría de los estudios para validar esta afirmación, se separa en 2 grupos a pacientes con codo de tenista, y se les aplica un tratamiento con ondas de choque con diferente frecuencia e intensidad a cada grupo. Ninguno de los grupos difería entre si antes del estudio, ambos presentaban resultados regular o malo en la escala analógica visual del dolor (VAS). Las primeras observaciones son que ambos grupos se mantuvieron a la par a lo largo de los meses, las variaciones eran mínimas, ambos progresaban a la par. Y segundo que después de un seguimiento de 6-12 meses aproximadamente, el dolor medido en una escala analógica visual (VAS) disminuyó significativamente en ambos grupos. Ambos grupos presentaron un resultado excelente o bueno en un 58% de los casos, que en comparación al inicio del estudio es una mejora increíble.[6][7][8][9] 					
-Se ha demostrado clínicamente que las ondas de presión, aplicadas a los tejidos lesionados, estimulan las reacciones metabólicas:
-	Reducen del dolor sentido por las fibras nerviosas<br>
-	Incrementan la circulación sanguínea en los tejidos blandos circundantes<br>
-	Inician un proceso de curación desencadenado por la activación de las células madre.[10]<br>
-</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/A6.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Magnoterapia Pulsátil</h3>
-				</header>
-				<p>La magnetoterapia pulsátil reduce el dolor causado por codo del tenista. Los fenómenos electromagnéticos tienen tres aspectos de aplicación médicobiológica.
-•	comprensión de los procesos eléctricos que se operan en el organismo, 
-•	conocimiento de las propiedades eléctricas y magnéticas de los medios biológicos. 
-•	mecanismo de acción de los campos magnéticos sobre el organismo.
-Esta acción puede intervenir como factor curativo y es de interés fundamental si se pretende utilizar el campo magnético como terapéutica. Se utiliza con onda media las 3 primeras aplicaciones y completa en las siguientes, hasta llegar a 10, aproximadamente. El resultado es excelente a partir de la tercera o cuarta aplicación. No es necesario bloquear a ningún paciente. Esta enfermedad puede considerarse como una de las más beneficiadas con el empleo de la magnetoterapia.
-Por una parte, las corrientes inducidas por el campo magnético producen un estímulo directo del trofismo celular, que se manifiesta por el estímulo en la síntesis de la energía que requiere el organismo para su función a nivel celular favoreciendo de esta manera la multiplicación celular, la síntesis proteica y la producción de prostaglandinas (efecto antinflamatorio). Por otra parte, hay un estímulo del flujo iónico a través de la membrana celular, en especial de los iones Ca++, Na + y K +. Esta acción tiene gran importancia cuando el potencial de membrana está alterado. Las cifras normales del potencial de membrana se sitúan entre 60 y 90 mV .Este potencial se mantiene mediante un mecanismo activo, en el que es fundamental la expulsión al exterior de la célula del ión Na +, que penetra en ella espontáneamente (bomba de sodio). 
-Desde el punto de vista tisular y orgánico, la magnetoterapia presenta una serie de acciones, de las cuales las más importantes son: 
-•	desintoxicación y aceleración del metabolismo
-•	vasodilatación (incremento del riego sanguíneo)
-•	miorelajación (liberación de espasmos)
-•	curativo y regenerativo, antiinflamatorio y antireumático
-•	contra el dolor (analgésico)
-•	antiedemático (con acción anti-hinchazón)[11]
- </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Bibliografía</a></li>
 				</ul>
@@ -142,16 +85,20 @@ Desde el punto de vista tisular y orgánico, la magnetoterapia presenta una seri
 		</div>
 	</section>
 	
+	
 </section>
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Ejercicios con estos productos</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<h3>Ejercicios con ayuda del Flexbar</h3>
+		<img src="assets/images/A5.png" alt="" data-position="top center" />
+		<h3>Ejercicios con ayuda del CLX</h3>
+		<img src="assets/images/A6.png" alt="" data-position="top center" />
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Inicio</a></li>
 		</ul>
 	</div>
 </section>
