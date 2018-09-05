@@ -8,8 +8,7 @@ nav-menu: true
 
 BIBLIOGRAFÍA
 
-[1]Joseph A. Abboud, Matthew L. Ramsey y Gerald R. Williams: anatomía del hombro y del codo
-(capitulo 1) Disponible en: http://media.axon.es/pdf/85021_1.pdf<br>
+[1]Abboud, J., Ramsey, M., & Williams, G. (2011). Anatomía del hombro y del codo [Ebook] (1st ed.). Barcelona: PDF. Retrieved from http://media.axon.es/pdf/85021_1.pdf<br>
 [2]Teresa Angulo Carrere. Ana Álvarez Méndez. Yolanda Fuentes Peñaranda: biomecánica de la extremidad superior y exploración del codo Disponible en: http://www.revistareduca.es/index.php/reduca-enfermeria/article/viewFile/753/769<br>
 [3]Joseph A. Abboud, Matthew L. Ramsey y Gerald R. Williams: anatomía del hombro y del codo [capitulo 1] Disponible en: http://media.axon.es/pdf/85021_1.pdf<br>
 [4]Chaudhury S, de La Lama M, Adler RS, Gulotta LV, Skonieczki B, Chang A, Moley P, Cordasco F, Hannafin J, Fealy S. Platelet-rich plasma for the treatment of lateral epicondylitis: sonographic assessment of tendon morphology and vascularity. Skeletal Radiol. 2013; 42(1):91-7.<br>
