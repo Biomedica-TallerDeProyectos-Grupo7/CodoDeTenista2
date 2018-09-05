@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Avance Semanal
+title: Plan de Trabajo
 nav-menu: true
 ---
