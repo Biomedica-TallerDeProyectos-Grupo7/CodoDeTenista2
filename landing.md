@@ -94,9 +94,9 @@ nav-menu: true
 			<h2>Ejercicios con estos productos</h2>
 		</header>
 		<h3>Ejercicios con ayuda del Flexbar</h3>
-		<img src="assets/images/A5.png" alt="" data-position="top center" />
+		<span class="image fit"><img src="assets/images/A5.jpg" alt="" /></span>
 		<h3>Ejercicios con ayuda del CLX</h3>
-		<img src="assets/images/A6.png" alt="" data-position="top center" />
+		<span class="image fit"><img src="assets/images/A6.jpg" alt="" /></span>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Inicio</a></li>
 		</ul>
