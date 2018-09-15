@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semana 2
-description: null
+description: Revisión del Estado de la Técnica
 image: assets/images/E1.jpg
 nav-menu: true
 ---
