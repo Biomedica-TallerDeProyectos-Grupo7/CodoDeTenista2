@@ -12,7 +12,7 @@ nav-menu: true
 <h1>Solución 2</h1><br>
 <p></p><br><br>
 <hr>
-<h1>Solución 3/h1><br>
+<h1>Solución 3</h1><br>
 <p></p><br><br>
 <hr>
 <h2>Referencias</h2>
