@@ -2,7 +2,7 @@
 layout: post
 title: Nosotros
 description: null
-image: null
+image: assets/images/nosotros.jpg
 nav-menu: true
 ---
 
