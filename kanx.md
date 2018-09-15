@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Plannn de Trabajo
+layout: post
+title: Semana 2
+description: null
+image: assets/images/E1.jpg
 nav-menu: true
 ---
 
