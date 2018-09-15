@@ -2,7 +2,7 @@
 layout: post
 title: Semana 3
 description: Desarrollo de un Plan de Trabajo Detallado y Requerimientos de Diseño
-image: assets/images/biblio.jpg
+image: assets/images/plandt.jpg
 nav-menu: true
 ---
 
