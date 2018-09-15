@@ -101,9 +101,6 @@ nav-menu: true
 		<span class="image fit"><img src="assets/images/A5.jpg" alt="" /></span>
 		<h3>Ejercicios con ayuda del CLX</h3>
 		<span class="image fit"><img src="assets/images/A6.jpg" alt="" /></span>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Inicio</a></li>
-		</ul>
 	</div>
 	
 </section>
