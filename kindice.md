@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semana 3
-description: null
+description: Desarrollo de un Plan de Trabajo Detallado
 image: assets/images/biblio.jpg
 nav-menu: true
 ---
