@@ -2,7 +2,7 @@
 title: REFERENCIAS
 layout: landing
 description: 'Índice<br />Codo De Tenista (Epicondilitis)'
-image: assets/images/E1.jpg
+image: assets/images/biblio.jpg
 nav-menu: true
 ---
 <h1>Índice</h1><br>
