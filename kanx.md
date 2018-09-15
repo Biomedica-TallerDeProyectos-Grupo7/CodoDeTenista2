@@ -78,7 +78,7 @@ PRECIO PROMEDIO: 81.4 euros / 316 soles
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/A4.png" alt="" data-position="top center" />
+			<img src="assets/images/A4.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
