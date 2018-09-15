@@ -102,7 +102,10 @@ nav-menu: true
 		<h3>Ejercicios con ayuda del CLX</h3>
 		<span class="image fit"><img src="assets/images/A6.jpg" alt="" /></span>
 	</div>
-	
+	<br><br>
+<hr>
+<h2>Referencias</h2>
+	<p>asdasdasdasdasd</p>
 </section>
 
 </div>
