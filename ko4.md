@@ -2,7 +2,7 @@
 layout: post
 title: Semana 4
 description: 3 Estrategias de Solución
-image: assets/images/E2.jpg
+image: assets/images/EDS.jpg
 nav-menu: true
 ---
 
