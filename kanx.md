@@ -75,6 +75,19 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/A4.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Implementación de robots animatrónicos para terapias motivadoras de rehabilitación física en niños</h3>
+				</header>
+				<p>Los diseños de los animatrónicos fueron desarrollados en un software CAD. Presenta una interfaz que permite al fisioterapeuta, programar el avance del juego de acuerdo a las capacidades y los requerimientos físicos del usuario. A través de esta interfaz, se configura el  puerto COM que establece la comunicación con la tarjeta Arduino y el computador. Incorporan un ambiente lúdico pueden apoyar la fisioterapia en miembros superiores e inferiores. </p>
+			</div>
+		</div>
+	</section
 	
 	
 </section>
@@ -92,6 +105,7 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Inicio</a></li>
 		</ul>
 	</div>
+	
 </section>
 
 </div>
