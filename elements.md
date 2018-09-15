@@ -38,7 +38,7 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/gora.jpg" alt="" /></span></div>
 	</div>
 		</div>
-		<p></p>
+		<p>Hola me llamo Johan Omar, tengo 20 años. Soy el encargado de Hardware y requerir los materiales necesarios para que el proyecto tenga viabilidad y que se pueda cumplir los estándares de calidad. Soy estudiante de la carrera de  Ingeniería Biomedica. Mi motivación para estudiar esta carrera es brindar mayores alternativas de diagnósticos, interpretación de imágenes.</p>
 	</dd>
 </dl>
 </div>
@@ -63,7 +63,7 @@ nav-menu: true
 		<div class="4u"><span class="image fit"><img src="assets/images/sandra.jpg" alt="" /></span></div>
 	</div>
 		</div>
-		<p></p>
+		<p>Soy estudiante de Ingenieria Biomedica mi interes se orienta en temas de biomecanica deportiva. Siempre me ha importado la salud de las demas personas y personalmente pienso que el sistema de salud en el Perû debe ser igualitaria e equitativa para todos.</p>
 	</dd>
 </dl>
 	
