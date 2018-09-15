@@ -5,45 +5,23 @@ description: 'Referencias<br/>Codo De Tenista (Epicondilitis)'
 image: assets/images/biblio.jpg
 nav-menu: true
 ---
-<h1>Índice</h1><br>
+<h1>Índice Bibliográfico</h1><br>
 
-[1]Abboud, J., Ramsey, M., & Williams, G. (2011). Anatomía del hombro y del codo [Ebook] (1st ed.). Barcelona: PDF. Retrieved from http://media.axon.es/pdf/85021_1.pdf<br>
-[2]Teresa Angulo Carrere. Ana Álvarez Méndez. Yolanda Fuentes Peñaranda: biomecánica de la extremidad superior y exploración del codo Disponible en: http://www.revistareduca.es/index.php/reduca-enfermeria/article/viewFile/753/769<br>
-[3]Joseph A. Abboud, Matthew L. Ramsey y Gerald R. Williams: anatomía del hombro y del codo [capitulo 1] Disponible en: http://media.axon.es/pdf/85021_1.pdf<br>
-[4]Chaudhury S, de La Lama M, Adler RS, Gulotta LV, Skonieczki B, Chang A, Moley P, Cordasco F, Hannafin J, Fealy S. Platelet-rich plasma for the treatment of lateral epicondylitis: sonographic assessment of tendon morphology and vascularity. Skeletal Radiol. 2013; 42(1):91-7.<br>
-[5]Sociedad Española de Reumatología. Manual SER de Enfermedades Reumáticas. 6ta edición. Barcelona, España: Elsevier España; 2014.<br>
-[6]Rosa Maria Hortal Alonso, Marina Salido Olivares, Pilar Navarro Alonso, Gloria Candelas Rodriguez. Epicondilitis. Seminarios de la Fundación Española de Reumatología. 2005; 6: 79-88.<br>
-[7]Windt D, Heijden G, Berg S, Riet G, Winter A, Bouter L. Ultrasound therapy for musculoskeletal disorders: a systematic review.Pain. 1999; 81 : 257-271.<br>
-[8]Faro F, Moriatis J. Lateral Epicondylitis: Review and Current Concepts. Hand Surg. 2007; 32: 1271-79.<br>
-[9]Calfee R, Patel A, DaSilva M, Akelman D. Management of Lateral Epicondylitis: Current Concepts. J Am Acad Orthop Surg. 2008 ;16 : 19- 29<br>
-[10]Akermark C, Crone H, Elsasser U, Forsskahl B. Inyecciones de polisulfato de glicosaminoglicanos en la epicondilalgia humeral lateral: un ensayo doble ciego controlado con placebo. Int J Sports Med. 1995; 16 : 196-200. <br>
-[11]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4317462/<br>
-[12]https://www.ucam.edu/sites/default/files/revista-fisio/imagenes-pdfs-revistas/volumen-5/vol.5-no1-art.4.pdf<br>
-<br><br>
-BIBLIOGRAFÍA - ESTADO DEL ARTE<br>
+-Beatriz Peláez Álvarez(2006) Epicondilitis: revisión de historias clínicas. UCAM.https://www.ucam.edu/sites/default/files/revista-fisio/imagenes-pdfs-revistas/volumen-5/vol.5-no1-art.4.pdf<br>
+-Walker-Bone K, Palmer KT, Reading I, Coggon D, Cooper C.(2012).Occupation and epicondylitis: a population-based study.Pubmed.gov.https://www.ncbi.nlm.nih.gov/pubmed/22019808<br>
+-Jayanthi, N.. (2018). Patient education: Elbow tendinopathy (tennis and golf elbow). 03/09/18, de Uptodate Sitio web: https://www.uptodate.com/contents/elbow-tendinopathy-tennis-and-golf-elbow-beyond-the-basics<br>
+-Croisier, J., Foidart-Dessalle, M., Tinant, F., Crielaard, J. & Forthomme, B.. (2007). An isokinetic eccentric programme for the management of chronic lateral epicondylar tendinopathy. 03/09/18, de Pubmed Sitio web: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2658962/<br>
+-Tyler, T. & McHugh, M. (2010). Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. 3/09/18, de Pubmed Sitio web: https://www.ncbi.nlm.nih.gov/pubmed/20579907<br>
+-Sociedad Española de Reumatología. (2014). Manual SER de Enfermedades Reumáticas. Barcelona, España: Elsevier España.<br>
+-Hortal, R., Salido, M., Navarro, P. & Candelas, G.. (2005). Epicondilitis. Seminarios de la Fundación Española de Reumatología, 6, pp.79-88.<br>
+-https://www.dhgate.com/store/product/electric-hot-compress-hand-massage-ball-hand/188259581.html<br>
+-Phil Page. A new exercise for tennis elbow that works. PubMed Central (PMC). Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2971639/<br>
+-TheraBandCLX. http://www.therabandclx.com<br>
+-Botero I ; Peña C ; Mantilla T. (2017). Implementación de robots animatrónicos para terapias motivadoras de rehabilitación física en niños. Espacios, 38, 5.<br>
+-B., Rich, M., Chan, Ch. & Nayak, S. (2012). Role of Video Games in Improving Health-Related Outcomes. A Systematic Review, American Journal of Preventive Medicine, 42, 630-638. O:<br>
+-Muñoz, J., Henao, O. & López, J. (2013). Sistema de rehabilitación basado en el uso de análisis biomecánico y videojuegos mediante el sensor Kinect. Revista TecnoLógicas, 30, 43-54.<br>
+-Gerardo Rodríguez.Manual de Diseño Industrial.Mexico.Recuperado de http://www.cua.uam.mx/pdfs/conoce/libroselec/16ManualDI.pdf<br>
 
-[1]Wang HS. Shock wave therapy for patients with lateral epicondylitis of the elbow: a one- to two-year follow-up study. Pubmed NCBI. Disponible en: https://www.ncbi.nlm.nih.gov/pubmed/12016085/<br>
-[2]Easy home treatment for Tennis and Golfer's Elbow. Disponible en: https://tenease.com/<br>
-[3]Phil Page. A new exercise for tennis elbow that works. PubMed Central (PMC). Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2971639/ <br>
-[4]ENRIQUE BARROCA: artículos de fisiolgía: ENVISAT. [Internet]. [publicado el 19/04/2007]. Disponible en: https://www.efisioterapia.net/articulos/t-e-n-s-estimulacion-nerviosa-transcutanea<br>
-[5]Paciulli,CM. Tecarterapa en epicondilitis [revised año 2013]. Disponible en http://redi.ufasta.edu.ar:8080/xmlui/bitstream/handle/123456789/1077/2013_K_014.pdf?sequence=1<br>
-[6]Rompe JD,Hopf C,Kullmer K,Heine J,Burger R,Nafe B.
-Low-energy extracorporal schock wave therapy for persistent tennis elbow.
-Int Orthop, 20 (1996), pp. 23-7
-Medline
-<br>
-[7]Rommpe JD,Riedel C,Betz N,Fink C.
-Chronic lateral epicondylitis of the elbow: A prospective study of low-energy schockwave therapy and low-energy schock wave therapy plus manual therapy of the cervical spine.
-Arch Phys Med Rehabil, 82 (2001), pp. 578-82 http://dx.doi.org/10.1053/apmr.2001.22337
-Medline
-<br>
-[8]Extracorporal schock wave therapy in patients with tennis elbow and painful heel. Arch Orthop Trauma Surg 2000;120(5-6):304-7.
-https://www.ncbi.nlm.nih.gov/pubmed/10853901
-<br>
-[9]Treatment of lateral epicondylitis of the elbow with schock waves. Clin Orthop 2001;(387):60-7.
-https://www.ncbi.nlm.nih.gov/pubmed/11400895<br>
-[10]https://www.ems-dolorclast.com/es/metodo-dolorclast/ondas-de-choque <br>
-[11]Ulises S, Yolanda E, Felix M. Uso de la magnetoterapia para afecciones articulares y prearticulares. Ortop Traumatol 1995. 
 
 
 
