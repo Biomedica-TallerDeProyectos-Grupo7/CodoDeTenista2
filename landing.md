@@ -5,7 +5,7 @@ description: 'Referencias<br/>Codo De Tenista (Epicondilitis)'
 image: assets/images/biblio.jpg
 nav-menu: true
 ---
-<h1>Índice Bibliográfico</h1><br>
+<h1>Índice de Referencias</h1><br>
 
 -Beatriz Peláez Álvarez(2006) Epicondilitis: revisión de historias clínicas. UCAM.https://www.ucam.edu/sites/default/files/revista-fisio/imagenes-pdfs-revistas/volumen-5/vol.5-no1-art.4.pdf<br>
 -Walker-Bone K, Palmer KT, Reading I, Coggon D, Cooper C.(2012).Occupation and epicondylitis: a population-based study.Pubmed.gov.https://www.ncbi.nlm.nih.gov/pubmed/22019808<br>
