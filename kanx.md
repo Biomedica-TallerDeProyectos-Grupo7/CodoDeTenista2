@@ -106,12 +106,12 @@ PRECIO PROMEDIO: 81.4 euros / 316 soles
 	<br><br>
 <hr>
 <h2>Referencias</h2>
-	<p>https://www.dhgate.com/store/product/electric-hot-compress-hand-massage-ball-hand/188259581.html<br>
-		Phil Page. A new exercise for tennis elbow that works. PubMed Central (PMC). Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2971639/<br>
-	 	TheraBandCLX.http://www.therabandclx.com<br>
-	Botero I ; Peña C ; Mantilla T. (2017). Implementación de robots animatrónicos para terapias motivadoras de rehabilitación física en niños. Espacios, 38, 5.<br>
-B., Rich, M., Chan, Ch. & Nayak, S. (2012). Role of Video Games in Improving Health-Related Outcomes. A Systematic Review, American Journal of Preventive Medicine, 42, 630-638. O:<br>
-Muñoz, J., Henao, O. & López, J. (2013). Sistema de rehabilitación basado en el uso de análisis biomecánico y videojuegos mediante el sensor Kinect. Revista TecnoLógicas, 30, 43-54. <br>
+	<p>-https://www.dhgate.com/store/product/electric-hot-compress-hand-massage-ball-hand/188259581.html<br>
+		-Phil Page. A new exercise for tennis elbow that works. PubMed Central (PMC). Disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2971639/<br>
+	 	-TheraBandCLX.http://www.therabandclx.com<br>
+	-Botero I ; Peña C ; Mantilla T. (2017). Implementación de robots animatrónicos para terapias motivadoras de rehabilitación física en niños. Espacios, 38, 5.<br>
+-B., Rich, M., Chan, Ch. & Nayak, S. (2012). Role of Video Games in Improving Health-Related Outcomes. A Systematic Review, American Journal of Preventive Medicine, 42, 630-638. O:<br>
+-Muñoz, J., Henao, O. & López, J. (2013). Sistema de rehabilitación basado en el uso de análisis biomecánico y videojuegos mediante el sensor Kinect. Revista TecnoLógicas, 30, 43-54. <br>
 
 		
 </p>
