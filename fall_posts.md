@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: Semana 1
+title: Semana 10
 landing-title: 'All posts'
 nav-menu: true
 description: Avance Semanal
