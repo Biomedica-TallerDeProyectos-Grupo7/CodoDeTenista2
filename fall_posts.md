@@ -4,7 +4,7 @@ title: Semana 1
 landing-title: 'All posts'
 nav-menu: true
 description: Presentación de la Problemática
-image: assets/images/codo-de-tenista.jpg
+image: assets/images/D1.jpg
 author: null
 ---
 
