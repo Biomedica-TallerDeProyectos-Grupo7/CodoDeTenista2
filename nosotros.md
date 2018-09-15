@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
 title: Nosotros
+description: null
+image: null
 nav-menu: true
 ---
 
