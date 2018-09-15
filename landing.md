@@ -1,7 +1,7 @@
 ---
-title: REFERENCIAS
+title: Bibliografía
 layout: landing
-description: 'Bibliografía<br/>Codo De Tenista (Epicondilitis)'
+description: 'Referencias<br/>Codo De Tenista (Epicondilitis)'
 image: assets/images/biblio.jpg
 nav-menu: true
 ---
