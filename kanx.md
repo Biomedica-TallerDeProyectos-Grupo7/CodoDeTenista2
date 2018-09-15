@@ -38,9 +38,6 @@ nav-menu: true
 •	Se utiliza para: accidente cerebrovascular, hemorragia cerebral, trombosis cerebral, parálisis cerebral, parálisis cerebral, lesión cerebral traumática, vértebra cervical, lesión espinal causada por otras causas anormales de la función de la mano, distonía de los dedos, espasmos de la mano, flexión de los dedos, atrofia muscular de la mano, etc.<br>
 •	5 juegos para ajustar la fuerza del masaje. Tamaño libre, apto para la mayoría de las personas adultas. 2 piezas Se requieren baterias recargables (no incluidas).<br>
 </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -54,9 +51,6 @@ nav-menu: true
 					<h3>El ejercicio FlexBar</h3>
 				</header>
 				<p>En el 2009 el Dr. Timothy Tyler del hospital Lenox Hill en Nueva York creó un método fácil y costo efectivo de terapia para la epicondilitis lateral con ejercicios excéntricos que liberan tensión en los músculos afectados y los estiran, aliviando el dolor y acortando el tiempo de recuperación. Se utiliza una barra llamada flexbar que permite hacer estos ejercicios, en los cuales la mano del brazo no comprometido intenta girar la barra flexionando la muñeca mientras la muñeca del brazo comprometido se mantiene extendida, intentando detener el movimiento. Se deben hacer 3 series de 15 repeticiones todos los días por aproximadamente 6 semanas. Estudios de este método lo comprobaron sumamente eficaz para aliviar el dolor y devolver fuerza a los músculos.[3] </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -78,9 +72,6 @@ nav-menu: true
 				PRECIO PROMEDIO: $ 14.99 - $ 24.99 / 66 soles
 
 </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Bibliografía</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
