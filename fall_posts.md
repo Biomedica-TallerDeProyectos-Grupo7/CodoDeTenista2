@@ -3,7 +3,7 @@ layout: allposts
 title: Semana 1
 landing-title: 'All posts'
 nav-menu: true
-description: Avance Semanal
+description: Presentación de la Problemática
 image: assets/images/codo-de-tenista.jpg
 author: null
 ---
