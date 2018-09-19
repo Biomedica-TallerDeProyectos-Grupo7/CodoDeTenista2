@@ -15,10 +15,10 @@ nav-menu: true
 <span class="image fit"><img src="assets/images/prop1.jpg" alt="" height="350" width="350" hspace="20" vspace="2"/></span>
 <h4>(Croisier, J. et al., 2007)</h4>
 <br><br><br><br>
-<span class="image fit"><img src="assets/images/prop2.jpg" alt="" height="350" width="350" hspace="20" vspace="2"/></span>
+<span class=""><img src="assets/images/prop2.jpg" alt="" height="300" width="350" hspace="20" vspace="2"/></span>
 <h4>(Croisier, J. et al., 2007)</h4>
 <br><br><br><br>
-<span class="image fit"><img src="assets/images/prop3.jpg" alt="" height="350" width="350" hspace="20" vspace="2"/></span>
+<span class=""><img src="assets/images/prop3.jpg" alt="" height="300" width="350" hspace="20" vspace="2"/></span>
 <h4>(Tyler, T. & McHugh, M.,2010)</h4>
 
 <hr>
