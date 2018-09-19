@@ -19,13 +19,17 @@ nav-menu: true
 <h4>(Croisier, J. et al., 2007)</h4>
 <br><br><br><br>
 <span class=""><img src="assets/images/prop3.jpg" alt="" height="300" width="450" hspace="20" vspace="2"/></span>
-<h4>(Tyler, T. & McHugh, M.,2010)</h4>
-<h2>Ejercicios Excéntricos</h2>
+<h4>(Tyler, T. & McHugh, M.,2010)</h4><br><br><br><br><hr>
+<h2>Riesgos</h2>
+<br>
+<span class=""><img src="assets/images/prop4.jpg" alt="" height="300" width="450" hspace="20" vspace="2"/></span>
+<h4>(Newham, D.J. et al., 1987)</h4>
 <br><br><br><br>
-<span class=""><img src="assets/images/prop3.jpg" alt="" height="300" width="450" hspace="20" vspace="2"/></span>
-<h4>(Tyler, T. & McHugh, M.,2010)</h4>
-
-
+<span class=""><img src="assets/images/prop5.jpg" alt="" height="300" width="450" hspace="20" vspace="2"/></span>
+<h4>(Proske, U. and Morgan, D., 2001)</h4>
+<br><br><br><br>
+<span class=""><img src="assets/images/prop6.jpg" alt="" height="300" width="450" hspace="20" vspace="2"/></span>
+<h4>(Costill, D.L. et al., 1990)</h4>
 <hr>
 <h2>Referencias</h2>
 <p>Cortés-Monroy,C., Soza, S. (2014). Usos prácticos de la toxina botulínica en adultos en medicina física y rehabilitación. Revista Médica Clínica Las Condes, 25(2), 225-236.<br>
