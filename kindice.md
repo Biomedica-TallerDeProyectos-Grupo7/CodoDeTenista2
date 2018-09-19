@@ -12,7 +12,7 @@ nav-menu: true
 <hr>
 
 <h1>PLAN DE TRABAJO</h1><br>
-<span class="image fit"><img src="assets/images/pt3.jpg" alt="" /></span><br><br>
+<span class="image fit"><img src="assets/images/pt3.JPG" alt="" /></span><br><br>
 <br>
 <h1>CRONOGRAMA</h1><br>
 <span class="image fit"><img src="assets/images/pt2.jpg" alt="" /></span><br>
