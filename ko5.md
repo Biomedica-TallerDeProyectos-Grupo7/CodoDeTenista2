@@ -23,15 +23,15 @@ nav-menu: true
 
 <hr>
 <h2>Referencias</h2>
-<p>Cortés-Monroy,C., Soza, S. (2014). Usos prácticos de la toxina botulínica en adultos en medicina física y rehabilitación. Revista Médica Clínica Las Condes, 25(2), 225-236.
-Costill, D.L., Pascoe, D.D., Fink, W.J., Robergs, R.A., Barr, S.I, y Pearson, D. (1990). Impaired muscle glycogen resynthesis after eccentric exercise. Pub med, 69(1), 46-50.
-Croisier, J.L et al. (2007). An isokinetic eccentric programme for the management of chronic lateral epicondylar tendinopathy. NCBI-PCM, 41(4), 269–275.  doi:  10.1136/bjsm.2006.033324
-Haake. M. (2002). Side-effects of extracorporeal shock wave therapy (ESWT) in the treatment of tennis elbow. Springer Link, 122(4), 222–228
-Newham, D.J., Jones, D.A., y Clarkson, P.M. (1987). Repeated high-force eccentric exercise: effects on muscle pain and damage. Pubmed, 63(4), 1381-6.
-Sayegh, E.T., Strauch, R. J. (2014). MD Does Nonsurgical Treatment Improve Longitudinal Outcomes of Lateral Epicondylitis Over No Treatment? A Meta-analysis. NCHI, 473(3), 1093–1107.
-Sociedad Española de Reumatología. (2014). Manual SER de Enfermedades Reumáticas. Barcelona, España: Elsevier España.
-Tyler, T.F., Thomas, G.C., Nicholas, S.J., y McHugh, M.P. (2010). Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. Pub Med, 19(6), 917-22.  doi: 10.1016/j.jse.2010.04.041
-Proske, U. and Morgan, D., (2001). Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications. Pubmed, 537 (2),333-345.
-Vicenzino, B. (2006). Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial. Thebjm, 333,939. doi: https://doi.org/10.1136/bmj.38961.584653.AE
+<p>Cortés-Monroy,C., Soza, S. (2014). Usos prácticos de la toxina botulínica en adultos en medicina física y rehabilitación. Revista Médica Clínica Las Condes, 25(2), 225-236.<br>
+Costill, D.L., Pascoe, D.D., Fink, W.J., Robergs, R.A., Barr, S.I, y Pearson, D. (1990). Impaired muscle glycogen resynthesis after eccentric exercise. Pub med, 69(1), 46-50.<br>
+Croisier, J.L et al. (2007). An isokinetic eccentric programme for the management of chronic lateral epicondylar tendinopathy. NCBI-PCM, 41(4), 269–275.  doi:  10.1136/bjsm.2006.033324<br>
+Haake. M. (2002). Side-effects of extracorporeal shock wave therapy (ESWT) in the treatment of tennis elbow. Springer Link, 122(4), 222–228<br>
+Newham, D.J., Jones, D.A., y Clarkson, P.M. (1987). Repeated high-force eccentric exercise: effects on muscle pain and damage. Pubmed, 63(4), 1381-6.<br>
+Sayegh, E.T., Strauch, R. J. (2014). MD Does Nonsurgical Treatment Improve Longitudinal Outcomes of Lateral Epicondylitis Over No Treatment? A Meta-analysis. NCHI, 473(3), 1093–1107.<br>
+Sociedad Española de Reumatología. (2014). Manual SER de Enfermedades Reumáticas. Barcelona, España: Elsevier España.<br>
+Tyler, T.F., Thomas, G.C., Nicholas, S.J., y McHugh, M.P. (2010). Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. Pub Med, 19(6), 917-22.  doi: 10.1016/j.jse.2010.04.041<br>
+Proske, U. and Morgan, D., (2001). Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications. Pubmed, 537 (2),333-345.<br>
+Vicenzino, B. (2006). Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial. Thebjm, 333,939. doi: https://doi.org/10.1136/bmj.38961.584653.AE<br>
 
 </p>
